@@ -6,9 +6,9 @@ import { PeoplePage } from '../pages/_people';
 const Root = () => {
   return (
     <Routes>
-      <Route path="/CD_MERN_React_LukeApiwalker-Core" element={ <Navigate to="/CD_MERN_React_LukeApiwalker-Core/home"/> } />
-      <Route path="/CD_MERN_React_LukeApiwalker-Core/home" element={ <HomePage /> } />
-      <Route path="/CD_MERN_React_LukeApiwalker-Core/:peopleId" element={ <PeoplePage />} />
+      <Route path="/" element={ <Navigate to="/home"/> } />
+      <Route path="/home" element={ <HomePage /> } />
+      <Route path="/:peopleId" element={ <PeoplePage />} />
     </Routes>
   )
 }

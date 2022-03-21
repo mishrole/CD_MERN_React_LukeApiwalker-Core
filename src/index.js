@@ -8,7 +8,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/CD_MERN_React_LukeApiwalker-Core">
+    {/* <BrowserRouter> */}
       <Root/>
     </BrowserRouter>
   </React.StrictMode>,
