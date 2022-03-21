@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CD_MERN_React_LukeApiwalker-Core/static/css/main.1d9f5860.css",
+    "main.js": "/CD_MERN_React_LukeApiwalker-Core/static/js/main.e8c78fec.js",
+    "static/js/787.397696e9.chunk.js": "/CD_MERN_React_LukeApiwalker-Core/static/js/787.397696e9.chunk.js",
+    "static/media/404.jpg": "/CD_MERN_React_LukeApiwalker-Core/static/media/404.0f1cf55c8dd610cfbcae.jpg",
+    "index.html": "/CD_MERN_React_LukeApiwalker-Core/index.html",
+    "main.1d9f5860.css.map": "/CD_MERN_React_LukeApiwalker-Core/static/css/main.1d9f5860.css.map",
+    "main.e8c78fec.js.map": "/CD_MERN_React_LukeApiwalker-Core/static/js/main.e8c78fec.js.map",
+    "787.397696e9.chunk.js.map": "/CD_MERN_React_LukeApiwalker-Core/static/js/787.397696e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d9f5860.css",
+    "static/js/main.e8c78fec.js"
+  ]
+}
